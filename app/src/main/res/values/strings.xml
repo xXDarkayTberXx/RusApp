@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RusApp</string>
+    <string name="dices">Dices</string>
+    <string name="dnd">Dungeons&amp;Dragons</string>
+    <string name="coin">Coinflip</string>
+    <string name="rng">RNG</string>
 </resources>

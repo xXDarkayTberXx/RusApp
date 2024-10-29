@@ -10,4 +10,5 @@
     <color name="bg_app">#005048</color>
     <color name="bg_cv">#A8A8A8</color>
     <color name="bg_cv_sel">#666666</color>
+    <color name="text">#DBDBDB</color>
 </resources>
